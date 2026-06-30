@@ -1,6 +1,7 @@
 {
   "name": "yudao-ui-admin-vue3",
   "version": "2026.06-snapshot",
+  "packageManager": "pnpm@10.29.3",
   "description": "基于vue3、vite4、element-plus、typesScript",
   "author": "xingyu",
   "private": false,
