@@ -146,6 +146,11 @@ export enum DICT_TYPE {
   INFRA_FILE_STORAGE = 'infra_file_storage',
   INFRA_OPERATE_TYPE = 'infra_operate_type',
 
+  // ========== HELPDESK 模块 ==========
+  HELPDESK_TICKET_STATUS = 'helpdesk_ticket_status',
+  HELPDESK_TICKET_PRIORITY = 'helpdesk_ticket_priority',
+  HELPDESK_TICKET_SOURCE = 'helpdesk_ticket_source',
+
   // ========== BPM 模块 ==========
   BPM_MODEL_TYPE = 'bpm_model_type',
   BPM_MODEL_FORM_TYPE = 'bpm_model_form_type',
